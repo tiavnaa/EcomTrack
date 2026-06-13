@@ -29,15 +29,15 @@ Pandas, NumPy
 
 Cas d'usage
 -----------
-. Responsable Marketing
+. Responsable Marketing  
     Identifier les clients susceptibles de quitter la plateforme afin de lancer des campagnes de fidélisation ciblées.  
-. Responsable Commercial
+. Responsable Commercial  
     Analyser les produits les plus rentables et optimiser les stratégies de vente.  
-. Direction Financière
+. Direction Financière  
     Prévoir les revenus futurs pour améliorer la planification budgétaire.  
-. Analyste Data
+. Analyste Data  
     Explorer les comportements d'achat et mesurer l'impact des différents facteurs commerciaux.  
-. Entrepreneur E-commerce
+. Entrepreneur E-commerce  
     Suivre l'évolution de son activité à partir d'un tableau de bord unique et interactif.  
 
 Résultats
